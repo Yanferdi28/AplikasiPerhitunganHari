@@ -119,7 +119,7 @@ private void hitungSelisihHari() {
 
 ## 6. Tampilan Aplikasi Saat di Run
 
-
+![image](https://github.com/user-attachments/assets/e616f7c6-16de-4b26-89c8-4fb5712849b4)
 
 ## 7. Indikator Penilaian
 
